@@ -1,9 +1,10 @@
-#include "main"
-
+#include "main.h"
 /**
  * main - Entry point
+ *
  * Return: always o
  */
+
 int main(void)
 {
 	char *sh = "main";
@@ -15,6 +16,5 @@ int main(void)
 	}
 	_putchar('\n');
 
-	return(0);
+	return (0);
 }
-
